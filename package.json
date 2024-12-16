@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@storybook/vue3-vite": "^8.4.7"
+  }
+}
